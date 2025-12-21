@@ -54,32 +54,22 @@
 **Languages**
 Java | JavaScript (ES6+) | HTML5 | CSS3
 
-markdown
-Copy code
 
 **Frontend**
 React.js | Next.js | Tailwind CSS
 
-markdown
-Copy code
 
 **Backend**
 Node.js | Express.js
 
-markdown
-Copy code
 
 **Databases & Auth**
 MongoDB | Firebase (Auth, Firestore)
 
-markdown
-Copy code
 
 **Tools**
 Git | GitHub | Vercel | Netlify | VS Code | Figma
 
-yaml
-Copy code
 
 ---
 
@@ -151,9 +141,9 @@ Copy code
 
 ## 📫 Contact
 
-- 📧 **anukalp.gupta_cs23@gla.ac.in**
+- 📧 **ganukalp70@gmail.com**
 - 💼 LinkedIn: https://www.linkedin.com/in/anukalp-gupta-23b4b7319/
-- 🌐 Portfolio: https://eduson.vercel.app
+- 🌐 Portfolio: https://anukalpeu.vercel.app
 
 ---
 
