@@ -141,7 +141,7 @@ Git | GitHub | Vercel | Netlify | VS Code | Figma
 
 ## 📫 Contact
 
-- 📧 **ganukalp70@gmail.com**
+- 📧 Email: **ganukalp70@gmail.com**
 - 💼 LinkedIn: https://www.linkedin.com/in/anukalp-gupta-23b4b7319/
 - 🌐 Portfolio: https://anukalpeu.vercel.app
 
