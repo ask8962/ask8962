@@ -1,24 +1,20 @@
 <!-- ===================== BANNER ===================== -->
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
-    <img alt="coding animation" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="70%">
-  </picture>
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="70%" alt="coding animation"/>
 </p>
 
 <!-- ===================== INTRO ===================== -->
-<h1 align="center">Hi 👋, I'm Anukalp Gupta</h1>
+<h1 align="center">Hi, I'm Anukalp Gupta</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=700&lines=Full-Stack+Web+Developer;Java+%7C+DSA+Enthusiast;Hackathon+Finalist;Building+Scalable+Web+Applications" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=720&lines=Full-Stack+Web+Developer;Java+%7C+DSA+Focused;Building+Real-World+Web+Products;Hackathon+Finalist" />
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/anukalp-gupta-23b4b7319/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:anukalp.gupta_cs23@gla.ac.in">
+  <a href="mailto:ganukalp70@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/ask8962">
@@ -28,101 +24,130 @@
 
 ---
 
-## 👨‍💻 About Me (Recruiter-First)
+## 👨‍💻 About Me
 
-- 🎓 **B.Tech CSE (2027)** @ GLA University  
-- 💡 Strong fundamentals in **DSA, OS, DBMS, CN**
-- 🧠 Solved **100+ DSA problems** using **Java**
-- 🚀 Built and deployed **5+ production-grade web applications**
-- 🏆 **Hackathon Finalist – Buildathon 2025**
-- ⚙️ Interested in **scalable systems, clean architecture & performance**
+- 🎓 B.Tech CSE (2027) — GLA University  
+- 💻 Full-Stack Web Developer (React, Firebase, Node)  
+- ☕ Strong in **Java + DSA**  
+- 🚀 Built and deployed **multiple production-ready apps**  
+- 🏆 Hackathon Finalist (Buildathon 2025)  
+- ⚙️ Focused on **real-world products, clean UI, and scalability**
 
 ---
 
-## 🧠 Core Strengths
+## 🧠 Core Skills
 
 - Data Structures & Algorithms (Java)
-- End-to-End Full-Stack Development
-- REST APIs & Authentication
-- System-oriented problem solving
-- Fast prototyping under deadlines
+- Full-Stack Web Development
+- Firebase Authentication & Firestore
+- REST APIs & Role-Based Dashboards
+- Rapid MVP Development
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages**
-Java | JavaScript (ES6+) | HTML5 | CSS3
+**Languages**  
+Java · JavaScript · HTML · CSS  
 
+**Frontend**  
+React.js · Next.js · Tailwind CSS  
 
-**Frontend**
-React.js | Next.js | Tailwind CSS
+**Backend & Auth**  
+Node.js · Firebase (Auth, Firestore)  
 
-
-**Backend**
-Node.js | Express.js
-
-
-**Databases & Auth**
-MongoDB | Firebase (Auth, Firestore)
-
-
-**Tools**
-Git | GitHub | Vercel | Netlify | VS Code | Figma
-
+**Tools**  
+Git · GitHub · Netlify · Vercel · VS Code · Figma  
 
 ---
 
-## 🚀 Featured Projects (Resume-Optimized)
+## 🚀 Featured Projects (Ranked)
 
-### 🔐 Safeguard Blockchain — Hackathon Finalist
-🔗 https://safeguardblockchain.vercel.app  
-**Tech:** Blockchain, AI, React.js, Node.js  
+### 🥇 GLA Gallery (Top Project)
+🔗 https://glagallery.vercel.app/
 
-- Designed a **decentralized fake-news detection system** using AI for content analysis  
-- Integrated **blockchain-based immutable verification**, improving trust & traceability  
-- Delivered a complete **end-to-end prototype within hackathon time constraints**
+**Tech:** React.js, Firebase  
+
+- Built a **centralized gallery platform** for university events  
+- Implemented structured media organization and fast loading UI  
+- Designed clean, responsive layout for all screen sizes  
+
+---
+
+### 🥈 MoodFind AI
+🔗 https://moodfindai.vercel.app/
+
+**Tech:** React.js, Firebase Auth  
+
+- AI-based mood recommendation platform  
+- Integrated dynamic content suggestions  
+- Secure authentication and session handling  
+
+---
+
+### 🥉 SkillEU – Admin Panel
+🔗 https://skilleu.vercel.app/admin
+
+**Tech:** React.js, Firebase  
+
+- Developed an **admin dashboard** for content & user management  
+- Role-based access and protected routes  
+- Optimized UI for admin workflows  
+
+---
+
+### 🏅 Portfolio Website
+🔗 https://anukalpeu.vercel.app/
+
+**Tech:** React.js  
+
+- Personal portfolio showcasing projects and skills  
+- Animated sections and modern UI  
+- Mobile-first, performance-optimized design  
+
+---
+
+### 🛒 Anugupta.Shop
+🔗 https://www.anugupta.shop/
+
+**Tech:** React.js, CSS  
+
+- E-commerce frontend with product listings  
+- Responsive cart-focused UI  
+- Optimized layout for usability and speed  
 
 ---
 
 ### 📝 GLA Exam Portal
-🔗 https://glaexamportal.site  
+🔗 https://glaexamportal.site/login
+
 **Tech:** React.js, Firebase  
 
-- Built a **full-stack online examination system** with Admin & Student dashboards  
-- Implemented **secure authentication and role-based access control**  
-- Automated MCQ evaluation, reducing manual effort by **100%**
+- Online examination system with **Admin & Student dashboards**  
+- Secure login and role separation  
+- Automated MCQ evaluation  
 
 ---
 
-### 🛒 Anugupta.Shop — E-Commerce Platform
-🔗 https://anugupta.shop  
-**Tech:** React.js, CSS3  
+### 🍽️ Food Explorer
+🔗 https://foodexp.vercel.app/
 
-- Developed a **responsive e-commerce web app** with product listing & cart features  
-- Optimized component rendering for **smooth user experience**  
-- Designed mobile-first UI for better accessibility
+**Tech:** React.js  
 
----
-
-### 🎵 MoodFind — AI-Based Recommendation App
-🔗 https://moodfind.netlify.app  
-**Tech:** React.js, Firebase Auth  
-
-- Built an AI-driven app to recommend **music & mood-boosting content**  
-- Integrated **third-party APIs** for dynamic data  
-- Secured user sessions using Firebase Authentication
+- Food discovery and browsing platform  
+- Clean UI with category-based navigation  
+- Responsive and lightweight frontend  
 
 ---
 
-## 🌐 Additional Live Projects
+### 🛕 Mandir Porsa
+🔗 https://mandirporsa.vercel.app/
 
-- GLA Gallery → https://glagallery.vercel.app/
-- Hack With Agra → https://hackwithagra.vercel.app/
-- AI PPT Generator → https://aipptx1.vercel.app/
-- Food Explorer → https://foodexp.vercel.app/
-- Portfolio → https://anukalpeu.vercel.app/
-- BrandVive → https://brandvive.vercel.app/
+**Tech:** React.js  
+
+- Informational website for a local temple  
+- Simple, accessible UI  
+- Optimized for low-end devices  
 
 ---
 
@@ -141,10 +166,10 @@ Git | GitHub | Vercel | Netlify | VS Code | Figma
 
 ## 📫 Contact
 
-- 📧 Email: **ganukalp70@gmail.com**
-- 💼 LinkedIn: https://www.linkedin.com/in/anukalp-gupta-23b4b7319/
-- 🌐 Portfolio: https://anukalpeu.vercel.app
+- 📧 Email: **ganukalp70@gmail.com**  
+- 💼 LinkedIn: https://www.linkedin.com/in/anukalp-gupta-23b4b7319/  
+- 🌐 Portfolio: https://anukalpeu.vercel.app  
 
 ---
 
-⭐ *Focused on learning, building, and shipping impact.*
+⭐ *Focused on building real products, not just projects.*
