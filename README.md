@@ -1,161 +1,172 @@
-<!-- ===================== BANNER ===================== -->
+<!-- ===================== HERO ===================== -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="70%" alt="coding animation"/>
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="72%" />
 </p>
 
-<!-- ===================== INTRO ===================== -->
-<h1 align="center">Hi, I'm Anukalp Gupta</h1>
+<h1 align="center">Anukalp Gupta</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=720&lines=Full-Stack+Web+Developer;Java+%7C+DSA+Focused;Building+Real-World+Web+Products;Hackathon+Finalist" />
+  <b>Software Engineer (Java + Full-Stack)</b><br/>
+  Systems-first · Performance-driven · Production-oriented
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/anukalp-gupta-23b4b7319/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:ganukalp70@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/ask8962">
-    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"/>
-  </a>
+  <a href="https://www.linkedin.com/in/anukalp-gupta-23b4b7319/">LinkedIn</a> ·
+  <a href="mailto:ganukalp70@gmail.com">Email</a> ·
+  <a href="https://anukalpeu.vercel.app/">Portfolio</a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## TL;DR (For Recruiters)
 
-- 🎓 B.Tech CSE (2027) — GLA University  
-- 💻 Full-Stack Web Developer (React, Firebase, Node)  
-- ☕ Strong in **Java + DSA**  
-- 🚀 Built and deployed **multiple production-ready apps**  
-- 🏆 Hackathon Finalist (Buildathon 2025)  
-- ⚙️ Focused on **real-world products, clean UI, and scalability**
+- 🎓 B.Tech CSE (2027), GLA University  
+- ☕ **Java-first engineer** with strong DSA & system fundamentals  
+- 🧠 Focus areas: **problem-solving, scalable design, clean abstractions**  
+- 🚀 Built and shipped **8+ real web applications (auth, dashboards, admin panels)**  
+- 🏆 Hackathon Finalist — Buildathon 2025  
 
 ---
 
-## 🧠 Core Skills
+## Engineering Philosophy
 
+- Write **boring, predictable, maintainable code**
+- Prefer **clarity over cleverness**
+- Optimize **only after measuring**
+- Treat side projects like **production systems**
+- Strong opinions, loosely held
+
+---
+
+## Core Competencies (FAANG-Aligned)
+
+### Computer Science
 - Data Structures & Algorithms (Java)
-- Full-Stack Web Development
-- Firebase Authentication & Firestore
-- REST APIs & Role-Based Dashboards
-- Rapid MVP Development
+- Time & Space Complexity Analysis
+- OOP, SOLID principles
+- Basic system design intuition
+
+### Backend & Systems
+- REST API design
+- Authentication & Authorization
+- Role-based access control
+- Data modeling (Firestore / NoSQL)
+
+### Frontend (Practical, Not Cosmetic)
+- React.js (state, components, performance)
+- Clean UI with real UX constraints
+- Mobile-first, accessible layouts
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack (Actual Usage)
 
-**Languages**  
-Java · JavaScript · HTML · CSS  
+**Primary Language**
+- Java (DSA, OOP, problem solving)
 
-**Frontend**  
-React.js · Next.js · Tailwind CSS  
+**Frontend**
+- React.js · Next.js · Tailwind CSS
 
-**Backend & Auth**  
-Node.js · Firebase (Auth, Firestore)  
+**Backend / Infra**
+- Firebase (Auth, Firestore)
+- Node.js (basic APIs)
 
-**Tools**  
-Git · GitHub · Netlify · Vercel · VS Code · Figma  
+**Tooling**
+- Git · GitHub
+- Netlify · Vercel
+- VS Code · Cursor AI
 
 ---
 
-## 🚀 Featured Projects (Ranked)
+## Selected Projects (Ranked by Impact)
 
-### 🥇 GLA Gallery (Top Project)
+### 🥇 GLA Gallery
 🔗 https://glagallery.vercel.app/
 
-**Tech:** React.js, Firebase  
+**Why it matters**
+- Real users
+- Real deployment
+- Real performance constraints
 
-- Built a **centralized gallery platform** for university events  
-- Implemented structured media organization and fast loading UI  
-- Designed clean, responsive layout for all screen sizes  
+**Details**
+- Centralized event gallery platform
+- Structured media loading
+- Responsive & fast UI
+- Production-ready deployment
 
 ---
 
 ### 🥈 MoodFind AI
 🔗 https://moodfindai.vercel.app/
 
-**Tech:** React.js, Firebase Auth  
-
-- AI-based mood recommendation platform  
-- Integrated dynamic content suggestions  
-- Secure authentication and session handling  
+**Details**
+- AI-assisted mood recommendation app
+- Secure authentication (Firebase Auth)
+- API-driven dynamic content
 
 ---
 
-### 🥉 SkillEU – Admin Panel
+### 🥉 SkillEU — Admin Panel
 🔗 https://skilleu.vercel.app/admin
 
-**Tech:** React.js, Firebase  
-
-- Developed an **admin dashboard** for content & user management  
-- Role-based access and protected routes  
-- Optimized UI for admin workflows  
+**Details**
+- Role-based admin dashboard
+- Protected routes & access control
+- Clean data management flows
 
 ---
 
-### 🏅 Portfolio Website
+### 🏅 Personal Portfolio
 🔗 https://anukalpeu.vercel.app/
 
-**Tech:** React.js  
-
-- Personal portfolio showcasing projects and skills  
-- Animated sections and modern UI  
-- Mobile-first, performance-optimized design  
+**Details**
+- Engineering-focused portfolio
+- Performance-optimized UI
+- No unnecessary animations or fluff
 
 ---
 
 ### 🛒 Anugupta.Shop
 🔗 https://www.anugupta.shop/
 
-**Tech:** React.js, CSS  
-
-- E-commerce frontend with product listings  
-- Responsive cart-focused UI  
-- Optimized layout for usability and speed  
+**Details**
+- E-commerce frontend
+- Product listing & cart UI
+- Responsive across devices
 
 ---
 
 ### 📝 GLA Exam Portal
 🔗 https://glaexamportal.site/login
 
-**Tech:** React.js, Firebase  
-
-- Online examination system with **Admin & Student dashboards**  
-- Secure login and role separation  
-- Automated MCQ evaluation  
+**Details**
+- Admin + Student dashboards
+- Automated MCQ evaluation
+- Auth-secured workflows
 
 ---
 
-### 🍽️ Food Explorer
+### 🍽 Food Explorer
 🔗 https://foodexp.vercel.app/
 
-**Tech:** React.js  
-
-- Food discovery and browsing platform  
-- Clean UI with category-based navigation  
-- Responsive and lightweight frontend  
+- Lightweight food discovery app
+- Simple, scalable UI patterns
 
 ---
 
 ### 🛕 Mandir Porsa
 🔗 https://mandirporsa.vercel.app/
 
-**Tech:** React.js  
-
-- Informational website for a local temple  
-- Simple, accessible UI  
-- Optimized for low-end devices  
+- Informational website
+- Optimized for low-end devices
 
 ---
 
-## 📊 GitHub Stats
+## Proof of Work (Signals)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ask8962&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ask8962&layout=compact&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ask8962&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ask8962&layout=compact&theme=tokyonight" height="160"/>
 </p>
 
 <p align="center">
@@ -164,12 +175,21 @@ Git · GitHub · Netlify · Vercel · VS Code · Figma
 
 ---
 
-## 📫 Contact
+## What I’m Actively Improving
 
-- 📧 Email: **ganukalp70@gmail.com**  
-- 💼 LinkedIn: https://www.linkedin.com/in/anukalp-gupta-23b4b7319/  
-- 🌐 Portfolio: https://anukalpeu.vercel.app  
+- Advanced Java problem solving
+- Low-level system design basics
+- Backend scalability concepts
+- Writing fewer projects, but **better ones**
 
 ---
 
-⭐ *Focused on building real products, not just projects.*
+## Contact
+
+- Email: **ganukalp70@gmail.com**
+- LinkedIn: https://www.linkedin.com/in/anukalp-gupta-23b4b7319/
+- Portfolio: https://anukalpeu.vercel.app/
+
+---
+
+> _“Strong fundamentals compound faster than flashy tools.”_
