@@ -1,195 +1,84 @@
-<!-- ===================== HERO ===================== -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="72%" />
-</p>
+# Hi, I'm Anukalp Gupta 👋
 
-<h1 align="center">Anukalp Gupta</h1>
+### 🚀 Java Developer | Product Engineer | Rapid Prototyper
 
-<p align="center">
-  <b>Software Engineer (Java + Full-Stack)</b><br/>
-  Systems-first · Performance-driven · Production-oriented
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/anukalp-gupta-23b4b7319/">LinkedIn</a> ·
-  <a href="mailto:ganukalp70@gmail.com">Email</a> ·
-  <a href="https://anukalpeu.vercel.app/">Portfolio</a>
-</p>
+I am a **Systems-First Engineer** focused on solving logic problems with **Java** and shipping full-stack products using **AI-augmented workflows**. I believe in "Shipping over Perfecting" for products, and "Depth over Breadth" for algorithms.
 
 ---
 
-## TL;DR (For Recruiters)
+## 👨‍💻 What I Actually Do
 
-- 🎓 B.Tech CSE (2027), GLA University  
-- ☕ **Java-first engineer** with strong DSA & system fundamentals  
-- 🧠 Focus areas: **problem-solving, scalable design, clean abstractions**  
-- 🚀 Built and shipped **8+ real web applications (auth, dashboards, admin panels)**  
-- 🏆 Hackathon Finalist — Buildathon 2025  
+- **Core Engineering:** I solve complex algorithmic problems and build robust logic using **Java** (Data Structures & Algorithms).
+- **Product Development:** I use modern **AI-native tooling** (Cursor, v0, Firebase) to accelerate frontend delivery and deploy real, usable applications.
+- **Consistency:** I commit code daily, solving LeetCode problems to sharpen my problem-solving intuition.
 
 ---
 
-## Engineering Philosophy
+## 🛠 Tech Stack & Tools
 
-- Write **boring, predictable, maintainable code**
-- Prefer **clarity over cleverness**
-- Optimize **only after measuring**
-- Treat side projects like **production systems**
-- Strong opinions, loosely held
-
----
-
-## Core Competencies (FAANG-Aligned)
-
-### Computer Science
-- Data Structures & Algorithms (Java)
-- Time & Space Complexity Analysis
-- OOP, SOLID principles
-- Basic system design intuition
-
-### Backend & Systems
-- REST API design
-- Authentication & Authorization
-- Role-based access control
-- Data modeling (Firestore / NoSQL)
-
-### Frontend (Practical, Not Cosmetic)
-- React.js (state, components, performance)
-- Clean UI with real UX constraints
-- Mobile-first, accessible layouts
+| Domain | Technologies |
+| :--- | :--- |
+| **Core Languages** | **Java (Strong)**, Python, SQL |
+| **Rapid Web Dev** | React.js, Next.js, Tailwind CSS (Leveraging AI-assisted workflows) |
+| **Backend & Data** | **Firebase** (Auth/Firestore), **MongoDB** (Learning), Node.js (Basic) |
+| **Mobile Dev** | Flutter (Internship Experience) |
+| **Tools** | Git, GitHub, Cursor AI, Vercel, Netlify |
 
 ---
 
-## Tech Stack (Actual Usage)
+## 📈 Consistency & Logic (The "Grind")
 
-**Primary Language**
-- Java (DSA, OOP, problem solving)
+I treat coding like a sport. My focus is on writing efficient, optimized Java code.
 
-**Frontend**
-- React.js · Next.js · Tailwind CSS
-
-**Backend / Infra**
-- Firebase (Auth, Firestore)
-- Node.js (basic APIs)
-
-**Tooling**
-- Git · GitHub
-- Netlify · Vercel
-- VS Code · Cursor AI
+* **Daily Goal:** 1 LeetCode Problem/Day
+* **Focus:** Arrays, Strings, HashMaps, Sliding Windows
+* **Repo:** [Check my Daily DSA Solutions here](https://github.com/ask8962/ask8962) *(Link to your DSA repo if separate, or keep this repo)*
 
 ---
 
-## Selected Projects (Ranked by Impact)
+## 🏆 Featured Projects (Live & Deployed)
 
-### 🥇 GLA Gallery
-🔗 https://glagallery.vercel.app/
+I build **functional software** used by real people.
 
-**Why it matters**
-- Real users
-- Real deployment
-- Real performance constraints
+### 🥇 [GLA Gallery](https://glagallery.vercel.app/)
+> *Centralized event gallery for university students.*
+- **Impact:** Solved the issue of scattered event photos by creating a unified platform.
+- **Tech:** Next.js, Firebase Storage, Tailwind.
+- **Key Feature:** Optimized media loading for mobile networks.
 
-**Details**
-- Centralized event gallery platform
-- Structured media loading
-- Responsive & fast UI
-- Production-ready deployment
+### 🥈 [MoodFind AI](https://moodfindai.vercel.app/)
+> *AI-assisted mood recommendation engine.*
+- **Tech:** OpenAI API Integration, Firebase Auth.
+- **Function:** Analyzes user input to suggest content based on emotional state.
 
----
+### 🥉 [SkillEU Admin](https://skilleu.vercel.app/admin)
+> *Role-based dashboard for data management.*
+- **Tech:** React.js, Protected Routes, Role-Based Access Control (RBAC).
+- **Focus:** Security and clean data management flows.
 
-### 🥈 MoodFind AI
-🔗 https://moodfindai.vercel.app/
-
-**Details**
-- AI-assisted mood recommendation app
-- Secure authentication (Firebase Auth)
-- API-driven dynamic content
+*(Other live projects: [Personal Portfolio](https://anukalpeu.vercel.app/), [Mandir Porsa](https://mandirporsa.vercel.app/))*
 
 ---
 
-### 🥉 SkillEU — Admin Panel
-🔗 https://skilleu.vercel.app/admin
+## 💼 Professional Experience
 
-**Details**
-- Role-based admin dashboard
-- Protected routes & access control
-- Clean data management flows
-
----
-
-### 🏅 Personal Portfolio
-🔗 https://anukalpeu.vercel.app/
-
-**Details**
-- Engineering-focused portfolio
-- Performance-optimized UI
-- No unnecessary animations or fluff
+**Mobile App Development Intern**
+*W3 Grades (Jovac '25 Summer Training)*
+- Gained hands-on experience in **Flutter** development.
+- Learned the lifecycle of mobile applications and cross-platform architecture.
 
 ---
 
-### 🛒 Anugupta.Shop
-🔗 https://www.anugupta.shop/
+## 🏅 Achievements
 
-**Details**
-- E-commerce frontend
-- Product listing & cart UI
-- Responsive across devices
+- **Hackathon Finalist:** Buildathon 2025 (Project: Safeguard Blockchain).
+- **Problem Solving:** Solved 100+ DSA problems across LeetCode & GeeksForGeeks.
 
 ---
 
-### 📝 GLA Exam Portal
-🔗 https://glaexamportal.site/login
+### 📫 Connect with me
+- **LinkedIn:** [Anukalp Gupta](https://www.linkedin.com/in/anukalp-gupta-23b4b7319/)
+- **Portfolio:** [anukalpeu.vercel.app](https://anukalpeu.vercel.app/)
+- **Email:** ganukalp70@gmail.com
 
-**Details**
-- Admin + Student dashboards
-- Automated MCQ evaluation
-- Auth-secured workflows
-
----
-
-### 🍽 Food Explorer
-🔗 https://foodexp.vercel.app/
-
-- Lightweight food discovery app
-- Simple, scalable UI patterns
-
----
-
-### 🛕 Mandir Porsa
-🔗 https://mandirporsa.vercel.app/
-
-- Informational website
-- Optimized for low-end devices
-
----
-
-## Proof of Work (Signals)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ask8962&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ask8962&layout=compact&theme=tokyonight" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ask8962&theme=tokyonight"/>
-</p>
-
----
-
-## What I’m Actively Improving
-
-- Advanced Java problem solving
-- Low-level system design basics
-- Backend scalability concepts
-- Writing fewer projects, but **better ones**
-
----
-
-## Contact
-
-- Email: **ganukalp70@gmail.com**
-- LinkedIn: https://www.linkedin.com/in/anukalp-gupta-23b4b7319/
-- Portfolio: https://anukalpeu.vercel.app/
-
----
-
-> _“Strong fundamentals compound faster than flashy tools.”_
+*"Strong fundamentals compound faster than flashy tools."*
