@@ -1,133 +1,191 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Anukalp%20Gupta&fontSize=80&fontAlignY=35&desc=Software%20Engineer%20%7C%20Java%20Core%20%2B%20Product%20Speed&descAlignY=60&descAlign=50" alt="Anukalp Gupta Header" />
 
-  <br />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f0f0f,100:1a1a1a&height=200&section=header&text=Anukalp%20Gupta&fontSize=68&fontColor=f5f5f7&fontAlignY=50&animation=fadeIn&desc=Software%20Engineer%20%E2%80%94%20Builder%20%C2%B7%20Thinker%20%C2%B7%20Shipper&descAlignY=72&descAlign=50&descSize=15&descColor=888888" />
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anukalp-gupta-23b4b7319/)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-000000?style=for-the-badge&logo=vercel)](https://anukalpeu.vercel.app/)
-  [![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail)](mailto:ganukalp70@gmail.com)
+<br/>
 
-  <br />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=15&duration=3500&pause=1200&color=888888&center=true&vCenter=true&width=580&lines=Java+%C2%B7+TypeScript+%C2%B7+Python+%C2%B7+Next.js;Building+real+products+with+clean+architecture.;B.Tech+CSE+%40+GLA+University+%E2%80%94+3rd+Year;Open+to+SDE+Internships+%26+Full-time+Roles.)](https://git.io/typing-svg)
 
-  <p align="center">
-    <b>Building robust systems with Java & shipping products at lightspeed with AI-augmented workflows.</b><br>
-    <i>"Strong fundamentals compound faster than flashy tools."</i>
-  </p>
-</div>
+<br/>
 
----
-
-## 👨‍💻 Engineering Philosophy
-
-I operate in two modes to deliver maximum value:
-
-| 🧠 **The Core (Deep Work)** | 🚀 **The Product (Rapid Ship)** |
-| :--- | :--- |
-| **Language:** Java (DSA & System Design) | **Stack:** Next.js, React, Tailwind, Firebase |
-| **Focus:** Time/Space Complexity, OOP, Logic | **Focus:** UI/UX, Deployment, User Acquisition |
-| **Goal:** Solvable, efficient, scalable code. | **Goal:** Real apps used by real people. |
-
----
-
-## 🛠 Tech Stack
-
-<div align="center">
-
-| **Core & Logic** | **Frontend & UI** | **Backend & Cloud** | **Tools & AI** |
-| :---: | :---: | :---: | :---: |
-| ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) <br> **(Primary)** | ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js&logoColor=white) | ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat&logo=Firebase&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) |
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) | ![V0](https://img.shields.io/badge/V0.dev-Prototyping-black?style=flat) |
-| ![DSA](https://img.shields.io/badge/DSA-Problem_Solving-red?style=flat) | ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white) | ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) | ![Cursor](https://img.shields.io/badge/Cursor-AI_IDE-blue?style=flat) |
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anukalp-gupta-23b4b7319/)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://anukalpeu.vercel.app/)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ganukalp70@gmail.com)
 
 </div>
 
----
-
-## 🏆 Featured Projects (Case Studies)
-
-### 1️⃣ [GLA Gallery](https://glagallery.vercel.app/) 🥇
-**Campus Memories & Hackathon Management Platform**
-
-> A production-grade platform allowing university students to share moments and admins to manage large-scale hackathons with QR check-ins.
-
-<details>
-<summary><b>🔻 Click to view Architecture & Deep Feature Breakdown</b></summary>
-<br>
-
-**🚀 Tech Stack**
-* **Framework:** Next.js 15 (App Router)
-* **Language:** TypeScript
-* **Database:** Firebase Firestore & Storage
-* **Auth:** Firebase Auth (Google) + RBAC (Role Based Access Control)
-* **UI:** Tailwind CSS 4, Radix UI, Framer Motion
-
-**✨ Key Features**
-* **📸 Gallery & Social:** High-performance image compression, Like/Comment system, and dynamic user profiles with "Follow" logic.
-* **🏆 Hackathon Management System:**
-    * **Live Leaderboard:** Real-time ranking of teams.
-    * **QR Check-in:** Organizers scan unique team QR codes for venue entry (includes sound effects).
-    * **Judging System:** Custom scoring criteria for hackathon judges.
-* **🎮 Gamification:** Points system, login streaks, and badges to drive user retention.
-* **👨‍💼 Admin Panel:** Full dashboard for content moderation, analytics, and user management.
-
-**🔐 Security Implementation**
-* Role-based access control (Student vs Admin).
-* GLA email domain restriction (`@gla.ac.in`) to prevent unauthorized access.
-* Secure environment variable management for API keys.
-
-[🔗 **View Live Deployment**](https://glagallery.vercel.app/)
-</details>
+<br/>
 
 ---
 
-### 2️⃣ [MoodFind AI](https://moodfindai.vercel.app/) 🥈
-**AI-Powered Emotional Wellness Companion**
+## `$ whoami`
 
-> An intelligent daily planner that adapts to how you feel. Built with a "Linear-inspired" design system for premium UX.
+```typescript
+const anukalp: Engineer = {
+  location:    "Mathura, India · GLA University (B.Tech CSE, 3rd Year)",
+  languages:   ["Java", "TypeScript", "Python"],
+  stack:       ["Next.js", "React", "Node.js", "Firebase", "Docker"],
+  focus:       ["System Design", "Full-Stack", "AI Integration", "DSA"],
+  currentlyOn: "Automated Code Explanation System + DSA grind",
+  openTo:      "SDE Internships & Full-time Opportunities",
+  belief:      "Strong fundamentals compound faster than flashy tools.",
+};
+```
 
-<details>
-<summary><b>🔻 Click to view AI Integration & UI Details</b></summary>
-<br>
-
-**🚀 Tech Stack**
-* **Core:** Next.js 14, TypeScript
-* **Design:** Tailwind CSS (Linear-style system), Lucide Icons
-* **AI/Backend:** OpenAI API Integration, Firebase
-
-**✨ Key Features**
-* **🧠 Emotional Intelligence:**
-    * **Smart Task Planner:** The AI suggests tasks based on mood (e.g., *Restorative tasks* when tired, *Deep work* when confident).
-    * **Mood Tracking:** Emoji-based logging with trend visualization.
-* **🎨 Premium UI/UX:**
-    * **Dark/Light Mode:** System preference detection with smooth toggles.
-    * **Micro-interactions:** Subtle gradients and hover lifts for a polished feel.
-* **🔐 Secure Journaling:** Private, encrypted space for daily thoughts.
-
-[🔗 **View Live Deployment**](https://moodfindai.vercel.app/)
-</details>
+<br/>
 
 ---
 
-## 📉 GitHub Stats
+## Stack
+
+**Languages**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+
+**Frontend**
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
+![Shadcn UI](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white)
+
+**Backend & AI**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq_AI-6D28D9?style=flat-square&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+
+**DevOps & Tools**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+<br/>
+
+---
+
+## Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [⚡ Automated Code Explanation System](https://gla-code-aa.vercel.app/)
+
+AI-powered educational platform that explains, optimizes, and visualizes code in seconds.
+
+- **Llama 3.3 70B** via Groq for ultra-fast inference
+- Line-by-line explanations + O(n²) → O(n log n) optimizer
+- Mermaid.js **flowchart generation** from code logic
+- Ships as **Web App + Chrome Extension + VS Code Extension**
+- Monaco Editor, Firebase Auth, shareable explanation links
+
+`Next.js 14` `TypeScript` `Groq API` `Firebase` `Mermaid`
+
+</td>
+<td width="50%" valign="top">
+
+### [🖼 GLA Gallery](https://glagallery.vercel.app/)
+
+Campus memory platform & full hackathon management system — production-grade.
+
+- **QR check-in** with live team leaderboard
+- Custom **judging system** with scoring criteria
+- RBAC — Student vs Admin roles with email domain restriction
+- Gamification: streaks, badges & a points economy
+- Full admin dashboard for moderation & analytics
+
+`Next.js 15` `TypeScript` `Firebase` `Framer Motion` `RBAC`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [🧠 MoodFind AI](https://moodfindai.vercel.app/)
+
+Mood-adaptive daily planner powered by AI — built with a Linear-inspired design system.
+
+- AI suggests tasks based on emotional state *(tired → restorative, confident → deep work)*
+- Emoji mood logging with trend visualization
+- Private encrypted journaling space
+- System-aware Dark / Light mode with micro-interactions
+
+`Next.js 14` `OpenAI API` `Firebase` `Tailwind`
+
+</td>
+<td width="50%" valign="top">
+
+### 🔭 What's Next
+
+> Currently sharpening:
+
+- **DSA in Java** — Trees, Graphs, DP (LeetCode grind)
+- **System Design** — designing for scale, not just for demos
+- **Docker & DevOps** — containerizing personal projects
+- **Python ML libs** — NumPy, Pandas, exploring model fine-tuning
+
+*Building in public. Shipping fast. Learning constantly.*
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+## Experience
+
+**Mobile App Development Intern** &nbsp;·&nbsp; *W3 Grades — Jovac '25 Summer Training*
+
+Built cross-platform mobile applications with Flutter — responsive UI layouts, REST API integration, real device testing.
+
+<br/>
+
+---
+
+## GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ask8962&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Anukalp's Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ask8962&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" height="150" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=ask8962&show_icons=true&hide_border=true&bg_color=ffffff&title_color=111111&text_color=555555&icon_color=111111&include_all_commits=true&count_private=true" height="155" />
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ask8962&layout=compact&hide_border=true&bg_color=ffffff&title_color=111111&text_color=555555&langs_count=6" height="155" />
+
+<br/><br/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=ask8962&theme=github&hide_border=true&border_radius=6&date_format=j%20M%5B%20Y%5D&background=FFFFFF&stroke=EEEEEE&ring=111111&fire=111111&currStreakNum=111111&sideNums=555555&currStreakLabel=111111&sideLabels=555555&dates=999999)](https://git.io/streak-stats)
+
+<br/>
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ask8962&theme=github-light&hide_border=true&area=true&color=555555&line=111111&point=111111)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 </div>
 
----
-
-## 💼 Experience
-
-**Mobile App Development Intern** | *W3 Grades (Jovac '25 Summer Training)*
-* Developed cross-platform mobile applications using **Flutter**.
-* Implemented responsive UI layouts and integrated REST APIs.
+<br/>
 
 ---
 
 <div align="center">
-  <h3>📫 Let's Connect</h3>
-  <p>I am open to SDE Internships and Full-time opportunities.</p>
-  
-  [LinkedIn](https://www.linkedin.com/in/anukalp-gupta-23b4b7319/) • [Portfolio](https://anukalpeu.vercel.app/) • [Email](mailto:ganukalp70@gmail.com)
+
+**Available for SDE Internships & Full-time Roles**
+
+[linkedin.com/in/anukalp-gupta-23b4b7319](https://www.linkedin.com/in/anukalp-gupta-23b4b7319/) &nbsp;·&nbsp; [anukalpeu.vercel.app](https://anukalpeu.vercel.app/) &nbsp;·&nbsp; [ganukalp70@gmail.com](mailto:ganukalp70@gmail.com)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a1a1a,100:0f0f0f&height=80&section=footer" />
+
 </div>
