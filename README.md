@@ -178,6 +178,18 @@ Built cross-platform mobile applications with Flutter — responsive UI layouts,
 
 ---
 
+## DSA &amp; Problem Solving
+
+<div align="center">
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/anukalpgupta?theme=light&font=source_code_pro&border=0&radius=6&ext=heatmap)](https://leetcode.com/u/anukalpgupta/)
+
+</div>
+
+<br/>
+
+---
+
 <div align="center">
 
 **Available for SDE Internships & Full-time Roles**
