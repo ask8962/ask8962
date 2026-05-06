@@ -96,7 +96,7 @@ AI-powered educational platform that explains, optimizes, and visualizes code in
 </td>
 <td width="50%" valign="top">
 
-### [🖼 GLA Gallery](https://glagallery.vercel.app/)
+### [🖼 GLA Gallery](https://www.campushub.pro/)
 
 Campus memory platform & full hackathon management system — production-grade.
 
